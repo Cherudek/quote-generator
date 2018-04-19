@@ -1,0 +1,75 @@
+h1 {
+  text-align: center;
+  font-size: 70px;
+  margin: 25px;
+  font-family: 'Londrina Outline', cursive;
+}
+
+h6 {
+  font-family: 'Anonymous Pro', monospace;
+  text-align: center;
+  color: black;
+}
+
+.quotebox {
+  border-radius: 6px;
+  position: relative;
+  margin: auto auto auto auto;
+  padding-bottom: 50px;
+  background-color: #FFFFFF;
+   
+}
+
+button {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-right: 80px;
+  font-family: 'Anonymous Pro', monospace;
+  text-transform: uppercase;
+  
+  
+}
+
+.btn-circle.btn-lg {
+  width: 80px;
+  height: 80px;
+  padding: 0 0;
+  border-radius: 40px;
+  border: 0.5px solid black;
+  font-size:16px;
+}
+
+.twitter {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin-left: 80px;
+  
+  padding-bottom: 10px;
+  
+}
+ 
+.quoteauthor {
+  position: relative;
+  margin: auto auto auto auto;
+  padding: 30px 0 50px 20px;
+  
+}
+
+#textbox {
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Anonymous Pro', monospace;
+  text-transform: uppercase;
+}
+
+#author {
+  font-family: 'Anonymous Pro', monospace;
+  font-size: 23px;
+}
+
+#footer{
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
